@@ -1,8 +1,7 @@
 # Boston University M.S. Data Science Capstone Project
-##*Depression Classification*
+### ***Depression Classification using Machine Learning Models***
 
-
-**Author**: Cody Thayer
+Cody Thayer  |  12.20.2023
 
 The contents of this repository is an analysis of using machine learning models to predict depression in people using health care data. This analysis is detailed in hopes of making the work accessible and replicable.
 
