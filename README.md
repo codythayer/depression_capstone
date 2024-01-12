@@ -68,7 +68,10 @@ The way the data was preprocessed with feature engineering, filling missing valu
 
 - <b>The most influential features of the best model are shown in the chart below.</b>
 
-![ImportantFeatures](https://raw.githubusercontent.com/codythayer/depression_capstone/main/Images/Most%20Important%20Features.png)
+![ImportantFeatures](https://raw.githubusercontent.com/codythayer/depression_capstone/main/images/Most%20Important%20Features.png)
+
+![ImportantFeatures](https://raw.githubusercontent.com/HeyThatsViv/Predicting-Depression-Using-Health-Care-Data/main/Images/Most%20Important%20Features.png)
+
 
 
 ## Recommendations
