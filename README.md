@@ -60,7 +60,7 @@ The way the data was preprocessed with feature engineering, filling missing valu
 
 ## Results
 
-![ConfusionMatrix](https://raw.githubusercontent.com/codythayer/depression_capstone/main/Images/Tuned%20SGD%20Linear%20Model.png)
+![ConfusionMatrix](https://raw.githubusercontent.com/codythayer/depression_capstone/main/images/Tuned%20SGD%20Linear%20Model.png)
 
 - <b>Overall the best model turned out to be the SGD classifier.</b> Though many models were more accurate at classifying the not depressed class than the best model, the linear models including logistic regression, linear SVM and SGD classifier performed the best at classifying the depressed class with the stochastic gradient descent classifier being the best overall. The best model was able to accurately classify 80% of the not depressed class and 71% of the depressed class.
 
@@ -69,10 +69,6 @@ The way the data was preprocessed with feature engineering, filling missing valu
 - <b>The most influential features of the best model are shown in the chart below.</b>
 
 ![ImportantFeatures](https://raw.githubusercontent.com/codythayer/depression_capstone/main/images/Most%20Important%20Features.png)
-
-![ImportantFeatures](https://raw.githubusercontent.com/HeyThatsViv/Predicting-Depression-Using-Health-Care-Data/main/Images/Most%20Important%20Features.png)
-
-
 
 ## Recommendations
 
