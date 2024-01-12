@@ -1,5 +1,5 @@
 # Boston University M.S. Data Science Capstone Project
-### ***Depression Classification using Machine Learning Models***
+### ***Depression Classification Using Machine Learning Models***
 Cody Thayer  |  12.20.2023
 
 <br>
